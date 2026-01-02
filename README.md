@@ -49,6 +49,22 @@
 </p>
 
 ---
+## 🎓 Education
+
+**Sardar Vallabhbhai Patel Institute of Technology, Vasad, Anand**  
+Bachelor of Engineering (B.E.) in Computer Engineering | 2022 – 2026  
+**CGPA:** 8.61  
+
+**Swami Vivekanand English Medium School, Ankleshwar, Bharuch**  
+HSC (Class XII – GSEB) | 2020 – 2022  
+**Percentage:** 64.61%
+
+---
+## 🎯 Extracurricular Activities
+
+- Represented the college across multiple institutes to promote **Prakarsh**, contributing to increased event outreach while strengthening communication and interpersonal skills.  
+- Participated in a **2-day Hackathon** (June) at SVIT, Vasad as part of a group project, where we developed an **IoT-based plant humidity monitoring system** to support efficient plant care and irrigation management.
+---
 
 ## 📫 Contact Me
 - LinkedIn: [jeelgandhii](https://www.linkedin.com/in/jeelgandhii/)  
