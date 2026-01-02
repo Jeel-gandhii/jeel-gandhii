@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Jeel Gandhi</h1>
-<p align="center">
+<p align="left">
   Computer Engineering undergraduate with a strong passion for programming and problem-solving. Skilled in JavaScript, Java, Core Python, React.js, and SQL, with a solid foundation in Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Architecture, and JDBC. Experienced in using Git, GitHub, VS Code, Jupyter, and Tableau to build efficient, data-driven applications. A collaborative team player, eager to learn new technologies, take on challenging tasks, and contribute effectively to real-world projects.
 </p>
 
